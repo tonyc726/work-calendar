@@ -4,29 +4,34 @@
 
 在线访问地址（Base64）：
 
-https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@main/dist/data.js
+https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js
 
 使用方法：
 
 ```Typescript
-// window.atob 与 window.bota 处理中文会乱码
-JSON.parse(decodeURIComponent(atob(DATA)))
+fetch('https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js')
+  .then((dataBuffer) => dataBuffer.text())
+  .then((dataBase64Str) => {
+    // Buffer -> Base64 -> String -> decodeURIComponent -> JSON.parse >>> JSON
+    const data = JSON.parse(decodeURIComponent(atob(dataBase64Str)));
 
-// ...
-```
-
-Schema：
-```JSON
-[
-  [
-    // date,
-    '2020-01-01',
-    // description
-    'xxxxxx',
-    // 0: 上班， 1: 放假
-    1
-  ]
-]
+    /**
+     * TODO...
+     *
+     * ```JSON
+     * [
+     *   [
+     *     // date,
+     *     '2020-01-01',
+     *     // description
+     *     'xxxxxx',
+     *     // 0: 上班， 1: 放假
+     *     1
+     *   ]
+     * ]
+     * ```
+     */
+  });
 ```
 
 ---
