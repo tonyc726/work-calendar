@@ -12,8 +12,8 @@ https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js
 fetch('https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js')
   .then((dataBuffer) => dataBuffer.text())
   .then((dataBase64Str) => {
-    // Buffer -> Base64 -> String -> decodeURIComponent -> JSON.parse >>> JSON
-    const data = JSON.parse(decodeURIComponent(atob(dataBase64Str)));
+    // Base64 String -> atob -> JSON.parse >>> JSON
+    const data = JSON.parse(atob(dataBase64Str));
 
     /**
      * TODO...
@@ -25,7 +25,7 @@ fetch('https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js')
      *     '2020-01-01',
      *     // description
      *     'xxxxxx',
-     *     // 0: 上班， 1: 放假
+     *     // isHoliday 0: 上班， 1: 放假
      *     1
      *   ]
      * ]
