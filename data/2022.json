@@ -1,0 +1,82 @@
+[
+  {
+    "description": "元旦",
+    "date": "2022-01-01",
+    "isHoliday": true
+  },
+  {
+    "description": "元旦",
+    "date": "2022-01-02",
+    "isHoliday": true
+  },
+  {
+    "description": "元旦",
+    "date": "2022-01-03",
+    "isHoliday": true
+  },
+  {
+    "description": "春节调班",
+    "date": "2022-01-29",
+    "isHoliday": false
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-01-30",
+    "isHoliday": false
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-01",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-02",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-03",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-04",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-05",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-06",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-07",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-08",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-09",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2022-02-10",
+    "isHoliday": true
+  },
+  {
+    "description": "春节调班",
+    "date": "2022-02-12",
+    "isHoliday": false
+  }
+]
