@@ -4,6 +4,9 @@
 
 在线访问地址（Base64）：
 
+https://bluetron-work-calendar-data.vercel.app/data.js
+
+备用地址：
 https://cdn.jsdelivr.net/gh/tonyc726/work-calendar@master/dist/data.js
 
 使用方法：
