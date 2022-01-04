@@ -26,6 +26,11 @@
   },
   {
     "description": "春节长假",
+    "date": "2022-01-31",
+    "isHoliday": false
+  },
+  {
+    "description": "春节长假",
     "date": "2022-02-01",
     "isHoliday": true
   },
@@ -67,11 +72,6 @@
   {
     "description": "春节长假",
     "date": "2022-02-09",
-    "isHoliday": true
-  },
-  {
-    "description": "春节长假",
-    "date": "2022-02-10",
     "isHoliday": true
   },
   {
