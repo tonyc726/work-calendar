@@ -22,12 +22,12 @@
   {
     "description": "春节长假",
     "date": "2022-01-30",
-    "isHoliday": false
+    "isHoliday": true
   },
   {
     "description": "春节长假",
     "date": "2022-01-31",
-    "isHoliday": false
+    "isHoliday": true
   },
   {
     "description": "春节长假",
