@@ -78,5 +78,60 @@
     "description": "春节调班",
     "date": "2022-02-12",
     "isHoliday": false
+  },
+  {
+    "description": "清明节调班",
+    "date": "2021-04-02",
+    "isHoliday": false
+  },
+  {
+    "description": "清明节",
+    "date": "2021-04-03",
+    "isHoliday": true
+  },
+  {
+    "description": "清明节",
+    "date": "2021-04-04",
+    "isHoliday": true
+  },
+  {
+    "description": "清明节",
+    "date": "2021-04-05",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节调班",
+    "date": "2021-04-24",
+    "isHoliday": false
+  },
+  {
+    "description": "五一劳动节",
+    "date": "2021-04-30",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节",
+    "date": "2021-05-01",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节",
+    "date": "2021-05-02",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节",
+    "date": "2021-05-03",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节",
+    "date": "2021-05-04",
+    "isHoliday": true
+  },
+  {
+    "description": "五一劳动节调班",
+    "date": "2021-05-07",
+    "isHoliday": false
   }
 ]
