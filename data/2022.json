@@ -133,5 +133,21 @@
     "description": "五一劳动节调班",
     "date": "2022-05-07",
     "isHoliday": false
+  },
+
+  {
+    "description": "端午节",
+    "date": "2022-06-03",
+    "isHoliday": true
+  },
+  {
+    "description": "端午节",
+    "date": "2022-06-04",
+    "isHoliday": true
+  },
+  {
+    "description": "端午节",
+    "date": "2022-06-05",
+    "isHoliday": true
   }
 ]
