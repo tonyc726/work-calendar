@@ -149,5 +149,65 @@
     "description": "端午节",
     "date": "2022-06-05",
     "isHoliday": true
+  },
+  {
+    "description": "中秋节",
+    "date": "2022-09-10",
+    "isHoliday": true
+  },
+  {
+    "description": "中秋节",
+    "date": "2022-09-11",
+    "isHoliday": true
+  },
+  {
+    "description": "中秋节",
+    "date": "2022-09-12",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-01",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-02",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-03",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-04",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-05",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-06",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节",
+    "date": "2022-10-07",
+    "isHoliday": true
+  },
+  {
+    "description": "国庆节调班",
+    "date": "2022-10-08",
+    "isHoliday": false
+  },
+  {
+    "description": "国庆节调班",
+    "date": "2022-10-09",
+    "isHoliday": false
   }
 ]
