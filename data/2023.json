@@ -1,0 +1,72 @@
+[
+  {
+    "description": "元旦",
+    "date": "2023-01-01",
+    "isHoliday": true
+  },
+  {
+    "description": "元旦",
+    "date": "2023-01-02",
+    "isHoliday": true
+  },
+  {
+    "description": "春节调班",
+    "date": "2023-01-15",
+    "isHoliday": false
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-20",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-21",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-22",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-23",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-24",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-25",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-26",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-27",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-28",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-29",
+    "isHoliday": true
+  },
+  {
+    "description": "春节长假",
+    "date": "2023-01-30",
+    "isHoliday": true
+  }
+]

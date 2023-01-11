@@ -209,5 +209,10 @@
     "description": "国庆节调班",
     "date": "2022-10-09",
     "isHoliday": false
+  },
+  {
+    "description": "元旦",
+    "date": "2022-12-31",
+    "isHoliday": true
   }
 ]
